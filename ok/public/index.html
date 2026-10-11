@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#F6F6F5">
+  <title>Semester II — Question Bank</title>
+
+  <script>
+    try {
+      if (localStorage.getItem("question-bank-theme") === "dark") {
+        document.documentElement.dataset.theme = "dark";
+      }
+    } catch (e) {}
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="style.css">
+
+  <script>
+    window.MathJax = {
+      tex: { inlineMath: [['\\(', '\\)'], ['$', '$']],
+             displayMath: [['\\[', '\\]'], ['$$', '$$']] },
+      options: { skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'] }
+    };
+  </script>
+  <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <!-- Lucide icons (same set as lucide-react; this project has no React build) -->
+  <script defer src="https://cdn.jsdelivr.net/npm/lucide@0.460.0/dist/umd/lucide.min.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="/">
+        <span class="brand-icon"><i data-lucide="book-open"></i></span>
+        <strong>Semester II</strong>
+        <span class="course-label">BSc CSIT</span>
+      </a>
+      <button id="theme-toggle" class="theme-toggle" type="button"
+              aria-label="Switch to dark theme" title="Toggle dark mode">
+        <i data-lucide="moon" class="icon-moon"></i>
+        <i data-lucide="sun" class="icon-sun"></i>
+        <span id="theme-label">Dark mode</span>
+      </button>
+    </div>
+  </header>
+
+  <div class="container">
+    <section class="intro">
+      <h1>Question bank</h1>
+      <p class="subtitle">Previous-year questions and worked solutions, organised by subject and year.</p>
+    </section>
+
+    <div class="layout">
+      <aside class="filters" aria-label="Question filters">
+        <p class="filters-title"><i data-lucide="sliders-horizontal"></i>Filters</p>
+
+        <label class="field search-box">
+          <i data-lucide="search"></i>
+          <input id="search" type="search" placeholder="Search questions" autocomplete="off">
+        </label>
+
+        <label class="field select-field">
+          <span>Subject</span>
+          <select id="subject"><option value="">All subjects</option></select>
+          <i data-lucide="chevron-down" class="select-chevron"></i>
+        </label>
+
+        <label class="field select-field">
+          <span>Year</span>
+          <select id="year"><option value="">All years</option></select>
+          <i data-lucide="chevron-down" class="select-chevron"></i>
+        </label>
+      </aside>
+
+      <main class="results">
+        <div class="results-heading">
+          <div>
+            <h2>Questions</h2>
+            <p id="status" role="status">Loading your questions…</p>
+          </div>
+          <div class="answer-controls">
+            <button id="show-all" class="text-button" type="button">
+              <i data-lucide="chevrons-down"></i>Show answers
+            </button>
+            <button id="hide-all" class="text-button" type="button">
+              <i data-lucide="chevrons-up"></i>Hide answers
+            </button>
+          </div>
+        </div>
+
+        <section id="questions" class="question-list" aria-live="polite"></section>
+
+        <button id="load-more" class="load-more" type="button" hidden>
+          <i data-lucide="plus"></i>Load more
+        </button>
+      </main>
+    </div>
+  </div>
+
+  <footer><p>Semester II Question Bank</p></footer>
+</body>
+</html>

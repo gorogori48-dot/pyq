@@ -1,0 +1,54 @@
+[
+  {
+    "question": "What do you mean by dispersion? Distinguish between absolute and relative measures of dispersion. Ten typists applying for a job in a company made the following scores in a typing speed test.  Applicant\t1\t2\t3\t4\t5\t6\t7\t8\t9\t10 Speed (words/min)\t55\t56\t80\t71\t87\t62\t76\t90\t73\t68  Compute mean, median, range and standard deviation of above data.",
+    "answer": "<p><img fetchpriority=\"high\" decoding=\"async\" class=\"alignnone size-full wp-image-67563\" src=\"https://i.ibb.co/cc7BN2sL/2917fa51a50d.jpg\" alt=\"- Hamro CSIT\" width=\"1837\" height=\"2560\"> <img decoding=\"async\" class=\"alignnone size-full wp-image-67564\" src=\"https://hamrocsit.com/wp-content/uploads/2025/09/CamScanner-09-04-2025-20.09_2-1-scaled.jpg\" alt=\"- Hamro CSIT\" width=\"1825\" height=\"2560\"></p>\n"
+  },
+  {
+    "question": "Define positive and negative correlation. What are the required assumptions for correlation analysis? A data analytic company wants to find the relation between traffic in website (X) per day and server downtime (Y) in minutes per day. The collected data are:  X\t9\t10\t12\t9\t10\t13\t13\t19 Y\t26\t38\t27\t45\t55\t80\t84\t100  (i) Find the correlation coefficient between x and y. Interpret the value. (ii) Find the regression equation of y on x. Estimate the value of y when x = 16. (iii) Interpret the value of y-intercept and slope of the line.",
+    "answer": "<p><img decoding=\"async\" class=\"alignnone size-medium wp-image-67566\" src=\"https://i.ibb.co/TqMdLT6g/d7435d60e852.jpg\" alt=\"- Hamro CSIT\" width=\"1811\" height=\"2560\"> <img decoding=\"async\" class=\"alignnone size-medium wp-image-67567\" src=\"https://hamrocsit.com/wp-content/uploads/2025/09/CamScanner-09-04-2025-20.09_4-1-scaled.jpg\" alt=\"- Hamro CSIT\" width=\"1856\" height=\"2560\"> <img decoding=\"async\" class=\"alignnone size-medium wp-image-67568\" src=\"https://i.ibb.co/prQCyYpK/2fd471c8de2a.jpg\" alt=\"- Hamro CSIT\" width=\"1926\" height=\"2560\"></p>\n"
+  },
+  {
+    "question": "What is the significance of normal probability distribution? What are the main properties of normal curve? The time it takes a cell to divide (called mitosis) is normally distributed with an average time of one hour and standard deviation of 4 minutes.  (i) What is the probability that a cell divides in less than 55 minutes? (ii) What is the time that it takes approximately 99% of all the cells to complete mitosis?",
+    "answer": "<p><img decoding=\"async\" class=\"alignnone size-full wp-image-67570\" src=\"https://i.ibb.co/3ytVtp6r/ec0d0208e5f1.jpg\" alt=\"- Hamro CSIT\" width=\"1822\" height=\"2560\"> <img decoding=\"async\" class=\"alignnone size-medium wp-image-67571\" src=\"https://hamrocsit.com/wp-content/uploads/2025/09/CamScanner-09-04-2025-20.09_7-1-scaled.jpg\" alt=\"- Hamro CSIT\" width=\"1926\" height=\"2560\"></p>\n"
+  },
+  {
+    "question": "Define statistics. Discuss in brief importance and limitations of statistics.",
+    "answer": "<p><img decoding=\"async\" class=\"alignnone size-full wp-image-67573\" src=\"https://i.ibb.co/mCD51kxr/5eeac7edbf93.jpg\" alt=\"- Hamro CSIT\" width=\"1848\" height=\"2560\"></p>\n"
+  },
+  {
+    "question": "What are the measures of central tendency? The following are the marks obtained by 95 students in Statistics.  Marks\t20-30\t30-40\t40-50\t50-60\t60-70\t70-80 No. of students\t10\t17\t19\t26\t15\t8  Find (i) the modal marks (ii) the lowest marks of the top 10% student.",
+    "answer": "<p><img decoding=\"async\" class=\"alignnone size-full wp-image-67575\" src=\"https://i.ibb.co/C3MNR2R7/7c9dbce77566.jpg\" alt=\"- Hamro CSIT\" width=\"1882\" height=\"2560\"> <img decoding=\"async\" class=\"alignnone size-medium wp-image-67576\" src=\"https://hamrocsit.com/wp-content/uploads/2025/09/CamScanner-09-04-2025-20.09_10-1-scaled.jpg\" alt=\"- Hamro CSIT\" width=\"1883\" height=\"2560\"></p>\n"
+  },
+  {
+    "question": "A factory produces two types of electric lamps A and B, in an experiment relating their life, the following results were obtained:  Length of life in 1000 hours\t4-6\t6-8\t8-10\t10-12 Number of lamps A\t7\t9\t11\t3 Number of lamps B\t5\t10\t13\t2  State (i) which model has a longer average life? (ii) Which model is more consistent in terms of life?",
+    "answer": "<p><img decoding=\"async\" class=\"alignnone size-full wp-image-67580\" src=\"https://i.ibb.co/VcQFhL5R/a253b5152aac.jpg\" alt=\"- Hamro CSIT\" width=\"1879\" height=\"2560\"></p>\n"
+  },
+  {
+    "question": "The following scores represent the final examination score for an elementary statistics course: 45, 65, 23, 32, 57, 74, 60, 30, 17, 19, 80, 59.  (i) Compute five number summary. (ii) Construct a box and whisker plot and interpret the result.",
+    "answer": "<p><img decoding=\"async\" class=\"alignnone size-full wp-image-67582\" src=\"https://i.ibb.co/FqCP1wtk/93600067046d.jpg\" alt=\"- Hamro CSIT\" width=\"1825\" height=\"2560\"> <img decoding=\"async\" class=\"alignnone size-full wp-image-67599\" src=\"https://hamrocsit.com/wp-content/uploads/2025/09/CamScanner-09-04-2025-20.09_13-1-scaled.jpg\" alt=\"- Hamro CSIT\" width=\"1882\" height=\"2560\"></p>\n"
+  },
+  {
+    "question": "Explain the mathematical approach of probability. A list of important customers contains 25 names. Among them 18 persons have their accounts in good standing while 7 are delinquent. Three persons will be selected at random from this list and status of their accounts checked. Calculate the probability that (i) all accounts are delinquent (ii) one account is delinquent and others are in good standing.",
+    "answer": "<p><img decoding=\"async\" class=\"alignnone size-full wp-image-67601\" src=\"https://i.ibb.co/hxRZDMbp/3b82aa9956be.jpg\" alt=\"- Hamro CSIT\" width=\"1920\" height=\"2560\"></p>\n"
+  },
+  {
+    "question": "State Baye’s theorem. A problem on multiple-choice quiz is answered correctly with probability 0.90 if a student is prepared. An unprepared student guesses between 4 possible answers, so that the probability of choosing the right answer is 1/4. Eighty percent of students prepare for the quiz. If a student X gives correct answer to this problem, what is the probability that he did not prepare for the quiz?",
+    "answer": "<p><img decoding=\"async\" class=\"alignnone size-full wp-image-67586\" src=\"https://i.ibb.co/5fJ4XH3/2709605a1ae3.jpg\" alt=\"- Hamro CSIT\" width=\"1926\" height=\"2560\"></p>\n"
+  },
+  {
+    "question": "Of the items produced by a company, 3% are defective. A sample of 25 items is selected for inspection. Use both binomial and Poisson distribution to answer the question: what is the probability that exactly two defectives are found? Compare the result.",
+    "answer": "<p><img decoding=\"async\" class=\"alignnone size-full wp-image-67588\" src=\"https://i.ibb.co/992dK1p4/dc2067c777e4.jpg\" alt=\"- Hamro CSIT\" width=\"1782\" height=\"2560\"></p>\n"
+  },
+  {
+    "question": "Suppose X and Y are independent random variables having the joint probability distribution:   f(x, y)\tX=2\tX=4 Y=1\t0.10\t0.20 Y=3\t0.15\t0.30 Y=5\t0.20\t0.05  Find: (i) marginal probability distribution of X and Y. (ii) E(X) (iii) E(Y) (iv) E(2X+3Y) (v) E(XY).",
+    "answer": "<p><img decoding=\"async\" class=\"alignnone size-full wp-image-67590\" src=\"https://i.ibb.co/JNTtK1Y/cdab5a7d9b43.jpg\" alt=\"- Hamro CSIT\" width=\"1742\" height=\"2560\"></p>\n"
+  },
+  {
+    "question": "Write short note on any two: (i) Primary data and secondary data. (ii) Sampling error and non sampling error (iii) Interval scale and ratio scale of measurements.",
+    "answer": "<p><img decoding=\"async\" class=\"alignnone size-full wp-image-67592\" src=\"https://i.ibb.co/5gWp9kMQ/3350bc9ffd6a.jpg\" alt=\"- Hamro CSIT\" width=\"1869\" height=\"2560\"> <img decoding=\"async\" class=\"alignnone size-medium wp-image-67593\" src=\"https://i.ibb.co/r2cP337p/ab4c12e0a7cc.jpg\" alt=\"- Hamro CSIT\" width=\"1886\" height=\"2560\"></p>\n"
+  },
+  {
+    "question": "A private owned business operates both a drive-in facility and walk-in facility. On a randomly selected day, let X and Y respectively, are the proportions of the time that the drive-in and the walk-in facilities are in use, and suppose that the joint density function of these random variables is:  f(x, y) = 0.4 (2x+3y), 0<x<1, 0 <y <1 = 0, elsewhere. Find P (0<x <0.5, 0.25 < y < 0.5)",
+    "answer": "<p><img decoding=\"async\" class=\"alignnone size-full wp-image-67595\" src=\"https://i.ibb.co/wrgLPRWV/c0f00e2a6d03.jpg\" alt=\"- Hamro CSIT\" width=\"1926\" height=\"2560\"></p>\n"
+  }
+]

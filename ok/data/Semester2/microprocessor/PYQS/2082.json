@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Explain instruction cycle, machine cycle and T-states. Draw timing diagram of instruction cycle of STA instruction with brief description.",
+    "answer": ""
+  },
+  {
+    "question": "Draw block diagram of 8086 microprocessor and explain its main two functional units. Differentiate between Real Address Mode and Protected Virtual Address Mode of 80286 microprocessor.",
+    "answer": ""
+  },
+  {
+    "question": "Explain the working of PUSH and POP instruction with suitable example. Write an assembly language program using 8085 microprocessor instructions to divide 34h by 08h, store the remainder in memory location 8050h and quotient in memory location 8051h.",
+    "answer": ""
+  },
+  {
+    "question": "Differentiate between Isolated mapped and Memory Mapped I/O. Explain basic DMA operation in brief.",
+    "answer": ""
+  },
+  {
+    "question": "Write an assembly language program for 8086 microprocessor to convert the string \"microprocessor is programmable\" to uppercase.",
+    "answer": ""
+  },
+  {
+    "question": "What is the use of AD₇–AD₀ in 8085 microprocessor? Explain address de-multiplexing process in 8085 microprocessor with suitable diagram.",
+    "answer": ""
+  },
+  {
+    "question": "What is interrupt? Explain 8259 interrupt controller in brief with suitable diagram.",
+    "answer": ""
+  },
+  {
+    "question": "Draw a logic diagram showing generation of memory and I/O read/write control signals in 8085 microprocessor.",
+    "answer": ""
+  },
+  {
+    "question": "Explain Register Organization in 80386 microprocessor.",
+    "answer": ""
+  },
+  {
+    "question": "What is Descriptor? How logical address is converted to physical address using Descriptor table with suitable diagram.",
+    "answer": ""
+  },
+  {
+    "question": "Write short notes on: a) Operating Modes of 8255 PPI b) Harvard Architecture",
+    "answer": ""
+  },
+  {
+    "question": "What is flag? Explain all the flags available in 8085 microprocessor.",
+    "answer": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "question": "State inclusion-exclusion principle. For which number x is true that \\[\\lfloor x \\rfloor = \\lceil x \\rceil\\] ? Let f and g be functions from {1, 2, 3, 4} to {a, b, c, d}, and from {a, b, c, d} to {1, 2, 3, 4}, respectively with f(1) = d, f(2) = c, f(3) = a, and f(4) = b, and g(a) = 2, g(b) = 1, g(c) = 3 and g(d) = 2.  a. If f and g one-to-one? b. If f and g on-to? c. Does either f or g have an inverse? If so find this inverse.",
+    "answer": ""
+  },
+  {
+    "question": "How many ways are there to assign 24 students to five faculty advisors?  \\vspace{0.5cm}  Find the solution of the recurrence relation \\[a_n = 3a_{n-1} - 3a_{n-2} + a_{n-3}\\] if\\[a_0 = 2,\\quad a_1 = 2,\\quad a_2 = 4.\\]",
+    "answer": "<iframe allowfullscreen webkitallowfullscreen width=\"100%\" height=\"800px\" src=\"https://hamrocsit.com/wp-content/plugins/pdfjs-viewer-hamrocsit/pdfjs/web/viewer.php?file=https://hamrocsit.com/wp-content/uploads/2026/06/2-82-2.pdf&#038;attachment_id=85592&#038;dButton=false&#038;pButton=false&#038;oButton=false&#038;sButton=false#zoom=auto&#038;pagemode=none&#038;_wpnonce=9754554edf\" title=\"Embedded PDF | Hamro CSIT\" class=\"pdfjs-iframe\"></iframe>\n"
+  },
+  {
+    "question": "Define an Euler circuit and Euler path in an undirected graph. Compute the maximal flow from the following network flow.",
+    "answer": "<iframe allowfullscreen webkitallowfullscreen width=\"100%\" height=\"800px\" src=\"https://hamrocsit.com/wp-content/plugins/pdfjs-viewer-hamrocsit/pdfjs/web/viewer.php?file=https://hamrocsit.com/wp-content/uploads/2026/06/3-82-1.pdf&#038;attachment_id=85593&#038;dButton=false&#038;pButton=false&#038;oButton=false&#038;sButton=false#zoom=auto&#038;pagemode=none&#038;_wpnonce=9754554edf\" title=\"Embedded PDF | Hamro CSIT\" class=\"pdfjs-iframe\"></iframe>\n"
+  },
+  {
+    "question": "Explain how the pigeonhole principle can be used to show that among any 11 integers, at least two must have the same last digit. Find a minimum spanning tree from the following graph where the degree of each vertex in the spanning tree does not exceed 2.",
+    "answer": "<iframe allowfullscreen webkitallowfullscreen width=\"100%\" height=\"800px\" src=\"https://hamrocsit.com/wp-content/plugins/pdfjs-viewer-hamrocsit/pdfjs/web/viewer.php?file=https://hamrocsit.com/wp-content/uploads/2026/06/4-82-1.pdf&#038;attachment_id=85591&#038;dButton=false&#038;pButton=false&#038;oButton=false&#038;sButton=false#zoom=auto&#038;pagemode=none&#038;_wpnonce=9754554edf\" title=\"Embedded PDF | Hamro CSIT\" class=\"pdfjs-iframe\"></iframe>\n"
+  },
+  {
+    "question": "Find the solution to the system of congruences \\[ x \\equiv 1 \\ (\\mathrm{mod}\\ 4), \\quad x \\equiv 2 \\ (\\mathrm{mod}\\ 5), \\quad x \\equiv 3 \\ (\\mathrm{mod}\\ 7). \\] using the Chinese Remainder Theorem.",
+    "answer": "<iframe allowfullscreen webkitallowfullscreen width=\"100%\" height=\"800px\" src=\"https://hamrocsit.com/wp-content/plugins/pdfjs-viewer-hamrocsit/pdfjs/web/viewer.php?file=https://hamrocsit.com/wp-content/uploads/2026/06/5-82-2.pdf&#038;attachment_id=85590&#038;dButton=false&#038;pButton=false&#038;oButton=false&#038;sButton=false#zoom=auto&#038;pagemode=none&#038;_wpnonce=9754554edf\" title=\"Embedded PDF | Hamro CSIT\" class=\"pdfjs-iframe\"></iframe>\n"
+  },
+  {
+    "question": "Suppose that on an island there are three types of people, knights, knaves, and normals. Knights always tell the truth, knaves always lie, and normals sometimes lie and sometimes tell the truth. Detectives questioned three inhabitants of the island — Amy, Brenda, and Claire — as part of the investigation of a crime. The detectives knew that one of the three committed the crime, but not which one. They also knew that the criminal was a knight, and that the other two were not. Additionally, the detectives recorded these statements: Amy: \"I am innocent.\" Brenda: \"What Amy says is true.\" Claire: \"Brenda is not a normal.\" After analyzing their information, the detectives positively identified the guilty party. Who was it?",
+    "answer": ""
+  },
+  {
+    "question": "Use mathematical induction to prove that \\[ 1^3 + 2^3 + 3^3 + \\cdots + n^3 = \\frac{n^2(n+1)^2}{4}. \\]",
+    "answer": "<iframe allowfullscreen webkitallowfullscreen width=\"100%\" height=\"800px\" src=\"https://hamrocsit.com/wp-content/plugins/pdfjs-viewer-hamrocsit/pdfjs/web/viewer.php?file=https://hamrocsit.com/wp-content/uploads/2026/06/7-82-2.pdf&#038;attachment_id=85589&#038;dButton=false&#038;pButton=false&#038;oButton=false&#038;sButton=false#zoom=auto&#038;pagemode=none&#038;_wpnonce=9754554edf\" title=\"Embedded PDF | Hamro CSIT\" class=\"pdfjs-iframe\"></iframe>\n"
+  },
+  {
+    "question": "Suppose that R is the relation on the set of strings of English letters such that aRb if and only if L(a) = L(b), where L(x) is the length of the string x. Is R an equivalence relation?",
+    "answer": "<iframe allowfullscreen webkitallowfullscreen width=\"100%\" height=\"800px\" src=\"https://hamrocsit.com/wp-content/plugins/pdfjs-viewer-hamrocsit/pdfjs/web/viewer.php?file=https://hamrocsit.com/wp-content/uploads/2026/06/8-82-2.pdf&#038;attachment_id=85585&#038;dButton=false&#038;pButton=false&#038;oButton=false&#038;sButton=false#zoom=auto&#038;pagemode=none&#038;_wpnonce=9754554edf\" title=\"Embedded PDF | Hamro CSIT\" class=\"pdfjs-iframe\"></iframe>\n"
+  },
+  {
+    "question": "What is the negation of \"This is a boring course\"? Give a direct proof for the statement: \"If n is even, then n + 4 is even.\"",
+    "answer": "<iframe allowfullscreen webkitallowfullscreen width=\"100%\" height=\"800px\" src=\"https://hamrocsit.com/wp-content/plugins/pdfjs-viewer-hamrocsit/pdfjs/web/viewer.php?file=https://hamrocsit.com/wp-content/uploads/2026/06/9-82-2.pdf&#038;attachment_id=85588&#038;dButton=false&#038;pButton=false&#038;oButton=false&#038;sButton=false#zoom=auto&#038;pagemode=none&#038;_wpnonce=9754554edf\" title=\"Embedded PDF | Hamro CSIT\" class=\"pdfjs-iframe\"></iframe>\n"
+  },
+  {
+    "question": "Define well ordering property. Find the multiplicative inverse of 7 modulo 19 using Extended Euclidean Algorithm.",
+    "answer": "<iframe allowfullscreen webkitallowfullscreen width=\"100%\" height=\"800px\" src=\"https://hamrocsit.com/wp-content/plugins/pdfjs-viewer-hamrocsit/pdfjs/web/viewer.php?file=https://hamrocsit.com/wp-content/uploads/2026/06/10-82-2.pdf&#038;attachment_id=85587&#038;dButton=false&#038;pButton=false&#038;oButton=false&#038;sButton=false#zoom=auto&#038;pagemode=none&#038;_wpnonce=9754554edf\" title=\"Embedded PDF | Hamro CSIT\" class=\"pdfjs-iframe\"></iframe>\n"
+  },
+  {
+    "question": "What are the necessary conditions for a graph to be isomorphic? List and illustrate with an example.",
+    "answer": ""
+  },
+  {
+    "question": "Solve the recurrence relation\\[a_n = a_{n-1} + 2a_{n-2}\\]with\\[a_0 = 2\\quad \\text{and} \\quada_1 = 7.\\]",
+    "answer": "<iframe allowfullscreen webkitallowfullscreen width=\"100%\" height=\"800px\" src=\"https://hamrocsit.com/wp-content/plugins/pdfjs-viewer-hamrocsit/pdfjs/web/viewer.php?file=https://hamrocsit.com/wp-content/uploads/2026/06/12-82-2.pdf&#038;attachment_id=85586&#038;dButton=false&#038;pButton=false&#038;oButton=false&#038;sButton=false#zoom=auto&#038;pagemode=none&#038;_wpnonce=9754554edf\" title=\"Embedded PDF | Hamro CSIT\" class=\"pdfjs-iframe\"></iframe>\n"
+  }
+]

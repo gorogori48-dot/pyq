@@ -1,0 +1,50 @@
+[
+  {
+    "question": "A book shop maintains the inventory of books that are being sold at the shop. The list includes details such as author, title, price, publisher and stock position. Whenever a customer wants a book, the sales person inputs the title and author to the system. If it is not available, \"Not found\" message is displayed. If it is available, then the system displays the book details and requests for the number of copies required. If the requested copies are available, the total cost of the requested copies is displayed; otherwise \"Required copies not in stock\" is displayed. Design a system using a class called books with suitable member functions and constructors. Use new operator in constructors to allocate memory space required.",
+    "answer": ""
+  },
+  {
+    "question": "Define polymorphism? List its advantages, write program to perform basic to user defined data type conversion.",
+    "answer": ""
+  },
+  {
+    "question": "Distinguish between public and private inheritance. Illustrate the chain of constructors and destructors in derived class with an example.",
+    "answer": ""
+  },
+  {
+    "question": "List and describe the characteristics of object oriented programming.",
+    "answer": ""
+  },
+  {
+    "question": "Write any two types of storage class? Write a program to calculate Power (a, b), using default arguments, if second argument is omitted, then calculate square of a.",
+    "answer": ""
+  },
+  {
+    "question": "Explain copy constructor with an example.",
+    "answer": ""
+  },
+  {
+    "question": "Is multiple inheritance possible? List some advantages and disadvantages of inheritance.",
+    "answer": ""
+  },
+  {
+    "question": "Assume that there are three animals in which snake make sound as \"hiss\", dog make sound as \"raf – raf\" and cat as \"meow\". Now implement this concept using pure virtual function.",
+    "answer": ""
+  },
+  {
+    "question": "What are the uses of try and catch block? Write a program to throw an exception if the string given by user does not start with vowel.",
+    "answer": ""
+  },
+  {
+    "question": "How do you access file randomly? How do you test errors during file operations?",
+    "answer": ""
+  },
+  {
+    "question": "Define stream. Suppose a file named STD.DAT contains a list of objects of class Student having data members name and class. Now write a program to extract the name of students reading in class 5 from STD.DAT.",
+    "answer": ""
+  },
+  {
+    "question": "Explain the use of 'this' pointer. Why do we need function template?",
+    "answer": ""
+  }
+]

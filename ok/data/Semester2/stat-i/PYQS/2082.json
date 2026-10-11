@@ -1,0 +1,54 @@
+[
+  {
+    "question": "What do you mean by statistics? Describe briefly. The following are the marks of 30 students in Statistics.",
+    "answer": ""
+  },
+  {
+    "question": "What do you understand by correlation analysis? Bradford Electric Illuminating is studying the relationship between kilowatt-hours (thousands) used and the number of rooms in a private single-family residence. A random sample of 5 houses yields the following.",
+    "answer": ""
+  },
+  {
+    "question": "Two continuous random variables X and Y have following pdf:",
+    "answer": ""
+  },
+  {
+    "question": "Maximal static in respiratory pressure is an index of respiratory muscle strength. The following data show the measure of maximal static in respiratory for 11 cystic fibrosis patients:",
+    "answer": ""
+  },
+  {
+    "question": "Calculate an appropriate measure of central tendency from the following table. Give the reason for your choice of measure of central tendency.",
+    "answer": ""
+  },
+  {
+    "question": "Define independent events in probability. A problem of statistics is given to three students A, B and C whose chances of solving the problem are in the ratio 2:3:5. Find the probability that (i) all of them solve the problem. (ii) the problem will be solved.",
+    "answer": ""
+  },
+  {
+    "question": "State Baye's theorem of probability. A computer maker receives parts from three suppliers S₁, S₂, and S₃. Fifty percent come from S₁, thirty percent from S₂, and twenty percent from S₃. Among all the parts supplied by S₁, 5% are defective. For S₂ and S₃, the portion of defective is 3% and 4% respectively. A customer complains that a certain part in his recently purchased computer is defective. What is the probability that it was supplied by S₁?",
+    "answer": ""
+  },
+  {
+    "question": "What is sampling? Give main objects of sampling.",
+    "answer": ""
+  },
+  {
+    "question": "Under what conditions the binomial distribution is used? A multiple choice test has 5 questions. There are 4 choices for each question of which one is correct. A student who has not studied for the test decides to answer all the questions randomly. What is the probability that he will get (i) all questions correct (ii) at least four questions correct?",
+    "answer": ""
+  },
+  {
+    "question": "Under what conditions binomial distribution tends to Poisson distribution? If the probability that an individual suffers an adverse reaction from a particular drug is known to be 0.0001, determine the probability that out of 20000 individuals (i) exactly 3 individuals will suffer an adverse reaction (ii) more than one individual will suffer an adverse reaction.",
+    "answer": ""
+  },
+  {
+    "question": "The finished inside diameter of a piston ring is normally distributed with a mean of 10 cm and standard deviation of 0.04 cm. (i) What proportion of rings will have an inside diameter exceeding 10.08 cm (ii) Below what value of inside diameter will 10% of the piston rings fall?",
+    "answer": ""
+  },
+  {
+    "question": "Given the following bivariate probability distribution:",
+    "answer": ""
+  },
+  {
+    "question": "Write short notes on any two. (i) Primary data and secondary data (ii) Kurtosis (iii) Regression analysis.",
+    "answer": ""
+  }
+]

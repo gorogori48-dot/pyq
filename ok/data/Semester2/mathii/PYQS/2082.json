@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Define homogeneous linear system of equations with an example. Which type of homogeneous equation has a nontrivial solution? Determine the value of x, y, and z if the system of equation x − 2y + 3z = 0, −x + 2y − 4z = 0, 2x − 4y + 9z = 0 has a nontrivial solution.",
+    "answer": ""
+  },
+  {
+    "question": "Let \\( T \\) be defined by \\( T(x) = Ax \\), where \\[ A = \\begin{bmatrix} 1 & -5 & -7 \\\\ -3 & 7 & 5 \\end{bmatrix} \\] Find a vector \\( x \\) whose image under \\( T \\) is \\( b \\), where \\[ b = \\begin{bmatrix} -2 \\\\ -2 \\end{bmatrix} \\] and determine whether \\( x \\) is unique or not.",
+    "answer": ""
+  },
+  {
+    "question": "a) Find the basis and dimension of the subspace H = {[a−3b+6c5a+4db−2c−d5d]:a,b,c,d∈R}\\left\\{ \\begin{bmatrix} a-3b+6c \\\\ 5a+4d \\\\ b-2c-d \\\\ 5d \\end{bmatrix} : a, b, c, d \\in \\mathbb{R} \\right\\} ⎩⎨⎧​​a−3b+6c5a+4db−2c−d5d​​:a,b,c,d∈R⎭⎬⎫​.  (b) What is rank of a matrix? Find the rank of a matrix A = [123214305]\\begin{bmatrix} 1 & 2 & 3 \\\\ 2 & 1 & 4 \\\\ 3 & 0 & 5 \\end{bmatrix} ​123​210​345​​.",
+    "answer": ""
+  },
+  {
+    "question": "Let A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 0 \\end{bmatrix} . Find A³.",
+    "answer": ""
+  },
+  {
+    "question": "Let A = \\begin{bmatrix} 3 & 1 \\\\ 4 & 2 \\end{bmatrix} . Find 5|A| − 2|I|. Is det(5A) equal to 5 det A? Justify.",
+    "answer": ""
+  },
+  {
+    "question": "Define subspace of a vector space. Prove that H = \\{ \\begin{bmatrix} a \\\\ 0 \\\\ c \\end{bmatrix} : a, c \\in \\mathbb{R} \\right\\}​​a0c​​:a,c∈R​ is a subspace of ℝ³.",
+    "answer": ""
+  }
+]
